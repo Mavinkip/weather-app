@@ -14,7 +14,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
-    var CITY: String = "nairobi,ke" // Set default city to Nairobi, Kenya
+    var CITY: String = "kapsabet,ke" // Set default city to Nairobi, Kenya
     val API: String = "2bccda4adbd64e5fcb506f56f4cdda49"
 
     override fun onCreate(savedInstanceState: Bundle?) {
