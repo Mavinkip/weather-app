@@ -33,7 +33,7 @@ Open the project in Android Studio, build the project, and run it on an emulator
 Usage
 Launch the App
 
-The app will start with the default city set to Nairobi, Kenya.
+The app will start with the default city set to Kapsabet, Kenya.
 
 Update City
 
